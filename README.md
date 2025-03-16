@@ -1,2 +1,2 @@
-# Goblin
-Expense Tracker Web Application using .NET
+# goblin
+Expense Tracker 
